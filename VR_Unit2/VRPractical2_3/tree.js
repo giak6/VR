@@ -18,3 +18,10 @@ class Tree{
     scene.append( this.obj )
   }
 }
+
+class Cloud{
+  constructor(z,y,z){
+    this.obj = document.createElement("a-entity");
+    let 
+  }
+}
